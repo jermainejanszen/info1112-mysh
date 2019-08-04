@@ -19,7 +19,7 @@ Commands:
 - show [filename...]:
     Reads from each filename in turn to standard output
 - set [variable[value...]]:
-    If no arguments are given print all variable currently defined
+    If no arguments are given print all variable currently defined.
     Otherwise sets the entered variables to the given values
 - unset [variable]:
     Removes variable from list of defined variables
